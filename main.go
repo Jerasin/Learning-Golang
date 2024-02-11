@@ -6,7 +6,9 @@ import (
 
 func main() {
 	// tutorial.Comment()
-	// tutorial.DataType()
+	tutorial.DataType()
 	// tutorial.Print()
-	tutorial.Operator()
+	// tutorial.Operator()
+	// tutorial.Input()
+	// tutorial.Condition()
 }
