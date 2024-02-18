@@ -1,7 +1,7 @@
 package main
 
 import (
-	"test/tutorial"
+	"module/research"
 )
 
 func main() {
@@ -13,5 +13,7 @@ func main() {
 	// tutorial.Condition()
 	// tutorial.Loop()
 	// tutorial.Function()
-	tutorial.Struct()
+	// tutorial.Struct()
+	// research.Main()
+	research.Init()
 }
